@@ -1,0 +1,23 @@
+{
+"name": "my-first-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nenoj/my-first-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nenoj/my-first-cli/issues"
+  },
+  "homepage": "https://github.com/nenoj/my-first-cli#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "openai": "^6.15.0"
+  }
+}
